@@ -1,0 +1,14 @@
+{
+"image_size": 1024,
+"camera_dist": [1.5],  
+"elevation": [0],
+"azim_angle": [0,45,90,135,180,225,270,315,360],
+"filename": "/home/andstasi/Projects/MediaVerse/3D_to_2D_converter/pytorch3d-renderer/data/random_example/Apple/apples.gltf",
+"file_extension": "gltf",
+"z_coord": 0, 
+"save_img":true,                        
+"save_path": "/home/andstasi/Projects/MediaVerse/3D_to_2D_converter/pytorch3d-renderer/results/"
+}
+
+
+
